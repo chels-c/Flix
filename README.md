@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src='ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ezgif.com-gif-maker (1).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 I was struggling a bit with getting the poster views to display, but I realized I was using the wrong base url!
